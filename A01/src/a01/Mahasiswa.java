@@ -24,7 +24,8 @@ public class Mahasiswa {
         
     }
     
-    void ubahNilai () {
+    void ubahNilai (char nilaiBaru) {
+        nilaiPBO1=nilaiBaru;
         
     }
 }
