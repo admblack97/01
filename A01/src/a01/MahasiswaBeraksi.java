@@ -4,7 +4,7 @@ public class MahasiswaBeraksi {
     public static void main(String[] args) {
         //ini adalah instance (pembuatan objek dengan nama objek
         Mahasiswa m1 = new Mahasiswa();
-        //
+        //namaClass namaObject = new konstruktor()
         
         //mengisi atribut objek
         m1.NPM = "16.63.0007";
